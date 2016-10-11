@@ -1,0 +1,19 @@
+{
+    "name": "avram/translatable",
+    "description": "A complete Laravel 5.x package to translate your URLs and models.",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Nemanja Avramovic",
+            "email": "avramyu@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Avram\\Translatable\\": "src/"
+        }
+    }
+}
